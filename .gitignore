@@ -1,0 +1,5 @@
+/src/**/*.suo
+/src/**/*.csproj.user
+/src/**/bin/
+/src/**/obj/
+/src/**/*.sln.DotSettings.user
